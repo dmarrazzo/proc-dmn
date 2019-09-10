@@ -1,4 +1,4 @@
-Repository Init Content
+DMN invocation from a BPMN process
 =======================
 
-Your project description here.
+![process](src/main/resources/com/myspace/schedule_sample/schedule-sample.decision-proc-svg.svg)
